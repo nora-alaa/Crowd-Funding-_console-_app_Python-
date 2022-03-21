@@ -1,0 +1,4 @@
+{'first name': 'n', 'last name': 'a', 'email': 'n@n.com', 'password': 'n', 'confirm password': 'n', 'mobile phone': '01012345678'}
+{'first name': 'h', 'last name': 'h', 'email': 'h@h.com', 'password': 'h', 'confirm password': 'h', 'mobile phone': '01012345678'}
+{'first name': 'q', 'last name': 'q', 'email': 'q@q.com', 'password': 'q', 'confirm password': 'q', 'mobile phone': '01012345678'}
+{'first name': 's', 'last name': 's', 'email': 's@s.com', 'password': 's', 'confirm password': 's', 'mobile phone': '01012345678'}
